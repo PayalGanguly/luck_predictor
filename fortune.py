@@ -16,7 +16,7 @@ lucky_names = [
     "Lumia","Aaru","Isha","Myra","Anaya","Diya","Kiara","Sara","Meera","Aarohi","Tara","Riya",
     "Naina","Sia","Avni","Aisha","Charvi","Kavya","Anika","Prisha","Mira","Tanvi","Simran",
     "Muskan","Rachita","Vani","Reeva","Navya","Ira","Suhana","Ankita","Shreya","Sneha","Pooja",
-    "Ritika","Aparna","Neha","Divya","Ishita","Komal","Meghna","Payal","Kritika","Niharika",
+    "Ritika","Aparna","Neha","Divya","Ishita","Komal","Meghna","Kritika","Niharika",
     "Chhavi","Radhika","Bhavya","Pallavi","Rupali","Amrita","Kajal","Mahima","Anjali","Priya",
     "Aishwarya","Manisha","Smita","Surbhi","Harini","Avantika","Suhani","Bhoomi","Vaidehi",
     "Gayatri","Shraddha","Nandini","Bhawna","Kanika","Prachi","Aarushi","Sanya","Vanshika",
